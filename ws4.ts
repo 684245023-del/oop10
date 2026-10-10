@@ -49,7 +49,7 @@ doc1.examine(pat2);
 doc2.examine(pat1);
 console.log("--------------------------------------------------");
 doc1.diagnose(pat1, "หัวใจ");
-doc2.diagnose(pat2, "ขึ้เครียด");
+doc2.diagnose(pat2, "ข้อเท้าแพลง");
 console.log("--------------------------------------------------");
 doc1.prescribeMedicine(pat1, "ยาลดความดัน");
 doc2.prescribeMedicine(pat2, "ยาคลายเครียด");
